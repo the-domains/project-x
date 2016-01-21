@@ -2,6 +2,7 @@ name: Project X
 favicon: null
 layout_spectrum: 0.41048197145573795
 typography_spectrum: 0.9042117230128497
+title: Project X
 cta:
   domain: null
   bucket: null
