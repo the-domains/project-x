@@ -1,0 +1,28 @@
+name: Project X
+favicon: null
+layout_spectrum: 0.41048197145573795
+typography_spectrum: 0.9042117230128497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6583088422194123
+  lightness: 0.2707665467169136
+  saturation: 0.6340009113773704
+  rhythmicContrast: 0.9277356101665646
+purpose: []
