@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T15:12:16.283Z'
-dateModified: '2016-01-21T15:12:11.396Z'
+datePublished: '2016-01-21T15:33:54.336Z'
+dateModified: '2016-01-21T15:29:59.511Z'
 title: Fundraising
 author: []
 sourcePath: _posts/2016-01-21-fundraising.md
@@ -22,4 +22,4 @@ url: fundraising/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61be5b42-89e3-4731-8e56-4236a16ee7e6.png)
+Support our mission through a donation today. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61be5b42-89e3-4731-8e56-4236a16ee7e6.png)
