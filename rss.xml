@@ -4,7 +4,7 @@
         <description><![CDATA[Project X]]></description>
         <link>https://thegrid.ai/project-x/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 18:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 18:07:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/project-x/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/project-x/43e9e708-5510-4e92-830e-07c4b825f514/index.html</link>
             <guid isPermaLink="false">43e9e708-5510-4e92-830e-07c4b825f514</guid>
             <pubDate>Thu, 28 Jan 2016 18:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Contact</p>]]></description>
-            <link>https://thegrid.ai/project-x/1e5e043b-d6dc-4b38-a0fd-5a28ef81d638/index.html</link>
-            <guid isPermaLink="false">1e5e043b-d6dc-4b38-a0fd-5a28ef81d638</guid>
-            <pubDate>Thu, 28 Jan 2016 17:54:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
