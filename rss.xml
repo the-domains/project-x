@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Project X]]></title>
         <description><![CDATA[Project X]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/project-x/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 11:57:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 11:58:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/project-x/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
             <description><![CDATA[<article><h1>About Us</h1><p>Project X is a Ghanaian vocational fashion and
@@ -21,7 +21,7 @@ X aims to create a sustainable business model through both cross-subsidization
 by which students who can afford to pay will be charged admission fees, and the
 reinvestment of surpluses so that its transformative courses can be opened to
 as many young women as possible through scholarships and bursaries. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4f3af089e40e97e7a6ed7a19512a9c3f4867c05.jpg"></article>]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <link>https://thegrid.ai/project-x/about-us/index.html</link>
             <guid isPermaLink="false">26d7899e-2ca2-4f79-b034-33aab650c863</guid>
             <pubDate>Tue, 02 Feb 2016 11:57:44 GMT</pubDate>
         </item>
