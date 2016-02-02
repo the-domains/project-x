@@ -1,6 +1,6 @@
 name: Project X
 favicon: null
-layout_spectrum: 0.41048197145573795
+layout_spectrum: 0.2608
 typography_spectrum: 0.9042117230128497
 title: Project X
 cta:
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 1
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
