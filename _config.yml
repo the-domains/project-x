@@ -1,7 +1,7 @@
 name: Project X
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 1
+typography_spectrum: 0.56451
 title: Project X
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e5c900'
-    - '#e50055'
-    - '#3c2b00'
-    - '#8a0000'
-    - '#b69800'
+    - '#5e412f'
+    - '#f0a830'
+    - '#f07818'
+    - '#78c0a8'
+    - '#fcebb6'
   brandStrength: 1
   lightness: 0.5
   saturation: 1
